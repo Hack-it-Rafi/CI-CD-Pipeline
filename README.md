@@ -36,10 +36,10 @@ This project is a simple Express.js application with two main routes: a root end
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Hack-it-Rafi/CI-CD-Pipeline
 2. Navigate to the project directory:
    ```bash
-   cd <project_name>
+   cd CI-CD-Pipeline
 3. Install dependencies
    ```bash
    npm install
