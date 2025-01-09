@@ -5,7 +5,7 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
     res.json({
-        msg: 'Hello World!',
+        msg: 'Hello World2!',
         app_version: '4',
     });
 });

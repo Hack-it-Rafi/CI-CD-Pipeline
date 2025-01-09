@@ -8,7 +8,7 @@ describe('Express App', () => {
         const response = await request(app).get('/');
         expect(response.statusCode).toBe(200);
         expect(response.body).toEqual({
-            msg: 'Hello World!',
+            msg: 'Hello World2!',
             app_version: '4',
         });
     });
